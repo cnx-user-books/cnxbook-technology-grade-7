@@ -1,0 +1,195 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Designing and making a warning system</title>
+  <metadata>
+  <md:content-id>m23125</md:content-id><md:title>Designing and making a warning system</md:title>
+  <md:abstract/>
+  <md:uuid>4e18e7a9-9964-4154-9457-538a95d5bcdb</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1171142325721">
+      <title>TECHNOLOGY</title>
+      <para id="para-id1171142325721">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1171142313037">
+      <title>Grade 7</title>
+      <para id="para-id1171142313037">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1171142045694">
+      <title>ELECTRICITY</title>
+      <para id="para-id1171142045694">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1171142308301">
+      <title>Module 15</title>
+      <para id="para-id1171142308301">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1171155266458">
+      <title>DESIGNING AND MAKING A WARNING SYSTEM</title>
+      <para id="id7000781"/>
+      <para id="id1171142307968"/>
+      <para id="id1171142311130"/>
+      <para id="id1171142328089"/>
+    </section>
+    <section id="id1171142325791">
+      <title>Assignment 1: </title>
+      <para id="para-id1171142325791">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1171142242777">
+      <title>To design and make a warning system</title>
+      <para id="para-id1171142242777">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1171142334002">
+      <title>[LO 1.1, 1.2, 1.5 to 1.13]</title>
+      <para id="id1171156098772">Design and make a warning system with two output devices (light and buzzer) that can be installed at the door and inside the room. This system should be able to tell the occupants of the room when somebody else wants to enter at the door by giving off a light and sound signal in the classroom.</para>
+      <para id="id1171142316404">Situation</para>
+      <para id="id1171142089094">The door of the Technology class is connected to the classroom by means of a long passage. It is sometimes impossible for the occupants of the room to hear when somebody is knocking at the door. Therefore is it necessary for someone to shout or hammer on the door. The teacher prefers that the door should be kept closed because pupils sometimes tamper with other learners’ products or with tools that are stored in the passage.</para>
+      <para id="id1171142308103"/>
+      <list id="id1171142321022" list-type="bulleted">
+        <item>Investigation:</item>
+      </list>
+      <para id="id1171142319947">Analyse and write the problem down in your own words.</para>
+      <para id="id1171142320382">Research:</para>
+      <para id="id1171142310010">Make a list of existing products and solutions. Paste pictures of their appearance and cost. </para>
+      <para id="id1171142309908">Modelling: </para>
+      <para id="id1171142316468">Investigate different types of switches and make models of types that would suit to  resolve the problem.</para>
+      <para id="id1171142320772">Design: </para>
+      <para id="id1171142046712">Design brief (Who? What? Where? When? Be able to?)</para>
+      <para id="id1171142330463">Specifications and constraints:</para>
+      <list id="id1171142333350" list-type="bulleted">
+        <item>Who is it for (age, access)?</item>
+      </list>
+      <list id="id1171142323852" list-type="bulleted">
+        <item>What is its purpose?</item>
+      </list>
+      <list id="id1171142319476" list-type="bulleted">
+        <item>What will it look like?</item>
+      </list>
+      <list id="id1171142044971" list-type="bulleted">
+        <item>What influence will it have on the environment?</item>
+      </list>
+      <list id="id1171142332594" list-type="bulleted">
+        <item>What will the cost of the materials used be?</item>
+      </list>
+      <list id="id3835430" list-type="bulleted">
+        <item>Distance between input and output?</item>
+      </list>
+      <para id="id1171142312340">Initial designs / solutions:</para>
+      <para id="id1171142310644">Choice with reasons:</para>
+      <para id="id4290418">Final design (develop design and solution further):</para>
+      <para id="id1171142324428">Make:</para>
+      <para id="id1171142319908"> Make a list of all the resources (tools and materials) needed. Also add the quantities  or dimensions.</para>
+      <table id="id1171142312397" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>Materials</entry>
+              <entry>Quantity/Measurements</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1171142330105"> Draw a simple flow diagram to show the steps for making the product.(LO 7.1.3.1)</para>
+      <figure id="id1171142321092">
+        <media id="id1171142321092_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 14-b7f1.png" id="id1171142321092__onlineimage" height="808" width="549"/>
+        </media>
+      </figure>
+      <para id="id1171142332511">Draw a simple working drawing of your final product. Use colour, shade, thick and thin lines and shadow. </para>
+      <para id="id1171142310848">Evaluation</para>
+      <para id="id1171142316141">Product</para>
+      <para id="id1171142319896">Does the product satisfy the design brief? Explain.</para>
+      <para id="id1171142311181">Does the product satisfy the specifications and constraints? Explain.</para>
+      <para id="id1171142325369">Suggests any improvements to your final product.</para>
+      <para id="id1171142315796">Process</para>
+      <para id="id1171142332748">How well did your making compare to your planned steps?</para>
+      <para id="id1171142314202">Suggests any improvements to your plan of action.</para>
+    </section>
+    <section id="id1171142324671">
+      <title>Assessment</title>
+      <table id="id1171142308794" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>Learning Outcomes(LOs)</entry>
+            </row>
+            <row>
+              <entry>LO 1</entry>
+            </row>
+            <row>
+              <entry>TECHNOLOGICAL PROCESSES AND SKILLSThe learner will be able to apply technological processes and skills ethically and responsibly using appropriate information and communication technologies.</entry>
+            </row>
+            <row>
+              <entry>Assessment Standards(ASs)</entry>
+            </row>
+            <row>
+              <entry>We know this when the learner:</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">investigates</emphasis>:</entry>
+            </row>
+            <row>
+              <entry>1.1 investigates the background context, the nature of the need, the environmental situation, and the people concerned when given a problem, need or opportunity set in a local context;</entry>
+            </row>
+            <row>
+              <entry>1.2 examines existing products relevant to a problem, situation or need.</entry>
+            </row>
+            <row>
+              <entry>1.3 investigates by performing simple practical tests relating to aspects of the technological knowledge areas (Structures, Processing, and Systems and Control);</entry>
+            </row>
+            <row>
+              <entry>1.4 during investigations, plans a strategy for collecting data and information.</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">design</emphasis>:</entry>
+            </row>
+            <row>
+              <entry>1.5 writes or communicates a short and clear statement or a design brief for the development of a product or system related to a given problem, need or opportunity;</entry>
+            </row>
+            <row>
+              <entry>1.6 lists product and design specifications and constraints for a solution to a given problem, need or opportunity.</entry>
+            </row>
+            <row>
+              <entry>1.7 generates at least two alternative solutions and annotates the ideas;</entry>
+            </row>
+            <row>
+              <entry>1.8 chooses possible solutions, gives sensible reasons for choice, and develops a chosen idea using graphics or modelling techniques;</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">make</emphasis>:</entry>
+            </row>
+            <row>
+              <entry>1.9 develops a plan.</entry>
+            </row>
+            <row>
+              <entry>1.10 chooses and uses appropriate tools and materials to make products by measuring, marking, cutting or separating, shaping or forming, joining or combining, and finishing different materials with some accuracy;</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">evaluates</emphasis>:</entry>
+            </row>
+            <row>
+              <entry>1.12 evaluates the product or system based on criteria linked directly to the design brief and some of the specifications and constraints, and suggests improvements or modifications;</entry>
+            </row>
+            <row>
+              <entry>1.13 evaluates the efficiency of the plan of action followed and suggests improving future plans.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+  </content>
+</document>

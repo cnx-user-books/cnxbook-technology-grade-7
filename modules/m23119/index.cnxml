@@ -1,0 +1,788 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>An electronic maths game Part 1: the design</title>
+  <metadata>
+  <md:content-id>m23119</md:content-id><md:title>An electronic maths game Part 1: the design</md:title>
+  <md:abstract/>
+  <md:uuid>ecc2e8f3-ee41-4077-8f5e-abc96c2d16be</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1170729756085">
+      <title>TECHNOLOGY</title>
+      <para id="para-id1170729756085">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1170729756093">
+      <title>Grade 7</title>
+      <para id="para-id1170729756093">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1170729756101">
+      <title>ELECTRICITY</title>
+      <para id="para-id1170729756101">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1170729756109">
+      <title>Module 12</title>
+      <para id="para-id1170729756109">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1170729764104">
+      <title>AN ELECTRONIC MATHS GAME </title>
+      <para id="para-id1170729764104">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1170729764112">
+      <title>Part 1: The design</title>
+      <para id="id1170729764118"/>
+      <para id="id1170729764125"/>
+    </section>
+    <section id="id1170729750962">
+      <title>ASSIGNMENT 1: </title>
+      <para id="para-id1170729750962">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1170729750971">
+      <title>To make an electronic mathematics game</title>
+      <para id="para-id1170729750971">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1170729750978">
+      <title>[LO 1.2, 1.7, 1.12, 1.13]</title>
+      <para id="id1170729750985">Systems and Control</para>
+      <para id="id1170729750989">Problem:</para>
+      <para id="id1170729750994">The learners in Gr.4 at _______ Primary School experience problems in learning their tables in Mathematics.</para>
+      <para id="id1170729519649">Design brief:</para>
+      <para id="id1170729519654">Design or make a solution for this problem.</para>
+      <para id="id1170729519658">Market research</para>
+      <para id="id1170729519662">Ask each of the following questions to at least ten Grade 4’s.</para>
+      <para id="id1170729519668">A.</para>
+      <table id="id1170729519673" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry>Names of learners who participated in the survey</entry>
+              <entry>Gr.4</entry>
+              <entry>Do youYes</entry>
+              <entry>Know your?</entry>
+              <entry>Tables?No</entry>
+            </row>
+            <row>
+              <entry>1.</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>2.</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>3.</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>4.</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>5.</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>6.</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>7.</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>8.</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>9.</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>10.</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1170729517949">
+        <emphasis effect="bold">B.</emphasis>
+      </para>
+      <table id="id1170729747784" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>Is it important to know your tables well?</entry>
+              <entry>Yes</entry>
+              <entry>Don’t know</entry>
+              <entry>No</entry>
+            </row>
+            <row>
+              <entry>1.</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>2.</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>3.</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>4.</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>5.</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>6.</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>7.</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>8.</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>9.</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>10.</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1170724246997">C. </para>
+      <table id="id1170724247001" summary="">
+        <tgroup cols="11">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <colspec colnum="11" colname="c11"/>
+          <tbody>
+            <row>
+              <entry>How do you learn your tables? Which method suits you best? Make a tick in the appropriate column indicated by the learner’s number</entry>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+              <entry>5</entry>
+              <entry>6</entry>
+              <entry>7</entry>
+              <entry>8</entry>
+              <entry>9</entry>
+              <entry>10</entry>
+            </row>
+            <row>
+              <entry>Parents or relatives ask tables</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Write a tables test in class every day</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Regularly play tables games (non-electronic, e.g. cards)</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Errors are written out</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Regularly play electronic computer games</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Other</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1170724227555"><emphasis effect="bold">D. </emphasis>Write down a few reasons why a solution to this problem will have a positive effect on the lives of Grade 4 learners.</para>
+      <para id="id1170724476381">Possible solutions to the problem.</para>
+      <list id="id1170724476386" list-type="bulleted">
+        <item>Parents or older relatives should do better consolidation at home.</item>
+        <item>Learners should write a tables test daily.</item>
+        <item>Design games to ensure consolidation in a playful manner.</item>
+        <item>Learners write out mistakes made in tests 50 times.</item>
+        <item>Other:</item>
+      </list>
+      <para id="id1170724393757">Design specifications and limitations</para>
+      <para id="id1170724393762">People (age/market):____________</para>
+      <para id="id1170724393774">Purpose: ______________</para>
+      <para id="id1170724393781">Appearance: Colour: </para>
+      <para id="id1170724262635">Form: </para>
+      <para id="id1170724262641">Function: </para>
+      <para id="id1170724262649">Impact on environment – made where? </para>
+      <para id="id1170724262657">- used where?</para>
+      <para id="id1170724215991">Safety measures during making: </para>
+      <para id="id1170724215995">During use:</para>
+      <para id="id1170724216000">Design proposal</para>
+      <para id="id1170724216004">I am going to design and make a ______________ (what) for _____________________</para>
+      <para id="id1170724216020">(whom) so that they will know their ___________ better (objective) and apply the knowledge in ____________where).</para>
+      <para id="id1170724441692">Cost of material used for electric circuit:</para>
+      <para id="id1170724441696">Isolation board </para>
+      <para id="id1170724441702">Bulb </para>
+      <para id="id1170724441707">Bulb socket </para>
+      <para id="id1170724441713">Battery (9V) </para>
+      <para id="id1170724441718">Battery connector</para>
+      <para id="id1170729782208">Screws </para>
+      <para id="id1170729782213">Resistor </para>
+      <para id="id1170729782219">Buzzer </para>
+      <para id="id1170729782224">Connectors </para>
+      <para id="id1170729782230">Isolation wire </para>
+      <para id="id1170729782235">Washers </para>
+      <para id="id1170724414990">Split pins </para>
+      <para id="id1170724414996">Cost of material used for container:</para>
+      <para id="id1170724415000">Cardboard </para>
+      <para id="id1170724415006">Isolation wire </para>
+      <para id="id1170724415012">Split pins </para>
+      <para id="id1170724415018">Cost of manufacturing </para>
+      <para id="id1170724460552">Selling price </para>
+      <para id="id1170724460558">Profit </para>
+      <para id="id1170724460563">Time allocation for design and making of game</para>
+      <table id="id1170724460568" summary="">
+        <tgroup cols="12">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <colspec colnum="11" colname="c11"/>
+          <colspec colnum="12" colname="c12"/>
+          <tbody>
+            <row>
+              <entry>Date</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Problem and market research</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>INVESTIGATION:</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Limitations, specifications and design proposal</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">DESIGN:</emphasis> Initial ideas</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Design</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">MAKING:</emphasis> Selection of materials and tools</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Making of component</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Description of process</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">EVALUATION:</emphasis> Sketch of product</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Evaluation of product</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Composition of project portfolio</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1170724579695"> Investigate at least 3 different electronic games and complete each column of at least  5 different factors of design.</para>
+      <table id="id1170724579703" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry>Game1</entry>
+              <entry>Game2</entry>
+              <entry>Game3</entry>
+            </row>
+            <row>
+              <entry>Nr.</entry>
+              <entry>Name of game</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>1</entry>
+              <entry>Sketch of <emphasis effect="underline">appearance </emphasis>ShapeColour</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>2</entry>
+              <entry>Size</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>3</entry>
+              <entry>Control</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>4</entry>
+              <entry>Cost and is it affordable for all the groups in the community?</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>5</entry>
+              <entry>Durability</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>6</entry>
+              <entry>Amount of games</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>7</entry>
+              <entry>Purpose</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>8</entry>
+              <entry>Materials used and do they benefit or are they to a disadvantage to the environment.</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <table id="id1170724450460" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry>9</entry>
+              <entry>For what age group and what influence does it have on them?</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>10</entry>
+              <entry>Power source</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1170724629193">SOURCES:</para>
+      <para id="id1170724629197">Game 1: </para>
+      <para id="id1170724629201">Game 2: </para>
+      <para id="id1170724629206">Game 3: </para>
+      <section id="id1170724629210">
+        <title>Assessment rubric</title>
+        <para id="id1170724629217">Investigation</para>
+        <table id="id1170729763807" summary="">
+          <tgroup cols="4">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry>4Gather relevant information accurately and thoroughly</entry>
+                <entry>3Gather sufficient information</entry>
+                <entry>2Gather limited information</entry>
+                <entry>1Gather little information</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id1170724478991">Teacher: _______________Date: ___________________</para>
+        <para id="id1170724398823">Comment: ________________</para>
+        <para id="id1170724398828">Parent or Guardian: _______________</para>
+        <para id="id1170724398832">Comment: ____________________</para>
+      </section>
+    </section>
+    <section id="id1170724398839">
+      <title>Assessment</title>
+      <table id="id1170724398846" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>Learning Outcomes(LOs)</entry>
+            </row>
+            <row>
+              <entry>LO 1</entry>
+            </row>
+            <row>
+              <entry>TECHNOLOGICAL PROCESSES AND SKILLSThe learner will be able to apply technological processes and skills ethically and responsibly using appropriate information and communication technologies.</entry>
+            </row>
+            <row>
+              <entry>Assessment Standards(ASs)</entry>
+            </row>
+            <row>
+              <entry>We know this when the learner:</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">investigates</emphasis>:</entry>
+            </row>
+            <row>
+              <entry>1.1 investigates the background context, the nature of the need, the environmental situation, and the people concerned when given a problem, need or opportunity set in a local context;</entry>
+            </row>
+            <row>
+              <entry>1.2 examines existing products relevant to a problem, situation or need.</entry>
+            </row>
+            <row>
+              <entry>1.3 investigates by performing simple practical tests relating to aspects of the technological knowledge areas (Structures, Processing, and Systems and Control);</entry>
+            </row>
+            <row>
+              <entry>1.4 during investigations, plans a strategy for collecting data and information.</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">design</emphasis>:</entry>
+            </row>
+            <row>
+              <entry>1.5 writes or communicates a short and clear statement or a design brief for the development of a product or system related to a given problem, need or opportunity;</entry>
+            </row>
+            <row>
+              <entry>1.6 lists product and design specifications and constraints for a solution to a given problem, need or opportunity.</entry>
+            </row>
+            <row>
+              <entry>1.7 generates at least two alternative solutions and annotates the ideas;</entry>
+            </row>
+            <row>
+              <entry>1.8 chooses possible solutions, gives sensible reasons for choice, and develops a chosen idea using graphics or modelling techniques;</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">make</emphasis>:</entry>
+            </row>
+            <row>
+              <entry>1.9 develops a plan.</entry>
+            </row>
+            <row>
+              <entry>1.10 chooses and uses appropriate tools and materials to make products by measuring, marking, cutting or separating, shaping or forming, joining or combining, and finishing different materials with some accuracy;</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">evaluates</emphasis>:</entry>
+            </row>
+            <row>
+              <entry>1.12 evaluates the product or system based on criteria linked directly to the design brief and some of the specifications and constraints, and suggests improvements or modifications;</entry>
+            </row>
+            <row>
+              <entry>1.13 evaluates the efficiency of the plan of action followed and suggests improving future plans.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+  </content>
+</document>

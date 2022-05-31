@@ -1,0 +1,311 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Reinforcing doors and windows</title>
+  <metadata>
+  <md:content-id>m23134</md:content-id><md:title>Reinforcing doors and windows</md:title>
+  <md:abstract/>
+  <md:uuid>281cba11-fe22-4139-823a-976e6809153f</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1167995325824">
+      <title>TECHNOLOGY</title>
+      <para id="para-id1167995325824">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1168000352041">
+      <title>Grade 7</title>
+      <para id="para-id1168000352041">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1167997543343">
+      <title>STRUCTURES AND COMMUNICATION</title>
+      <para id="para-id1167997543343">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1167999958432">
+      <title>Module 22</title>
+      <para id="para-id1167999958432">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1168002222840">
+      <title>REINFORCING DOORS AND WINDOWS</title>
+      <para id="id1168000543188">REINFORCING, by using concrete and lintels over doors and window openings.</para>
+      <para id="id2991646">Stability</para>
+      <para id="id2966014">Structures are stabilized to prevent them from collapsing when forces or loads are put on them. To prevent a structure from falling down or collapsing we must try to make the internal forces bigger than the external forces under all conditions. How can you prevent a chair from collapsing when you sit on it? There are rails acting as ties at the bottom holding the legs together and preventing the legs from being pushed outwards.</para>
+      <para id="id1168000836005">A flagpole doesn’t need any supports under normal conditions. When the wind blows it can be supported by using guy ropes or ties that are flexible, but stop the poles from bending too far.</para>
+      <para id="id8575333">Different forces can act on different parts of a structure. Forces that structures have to stand up to are:</para>
+      <para id="id1168000595205"/>
+      <list id="id1167998290498" list-type="bulleted">
+        <item>Compression – when we try to squash a structure ( a squashing force).</item>
+      </list>
+      <figure id="id1167996893831">
+        <media id="id1167996893831_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 1-f848.png" id="id1167996893831__onlineimage" height="68" width="126"/>
+        </media>
+      </figure>
+      <list id="id1168010090555" list-type="bulleted">
+        <item>Tension – when we try to pull a structure apart from either end (a pulling force).</item>
+      </list>
+      <para id="id2096775">
+        <figure id="id1168010189003">
+          <media id="id1168010189003_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 2-fbab.png" id="id1168010189003__onlineimage" height="44" width="222"/>
+          </media>
+        </figure>
+      </para>
+      <list id="id1168001343798" list-type="bulleted">
+        <item>Bending – a force which is trying to bend a structure and it is in compression and tension simultaneously.</item>
+      </list>
+      <figure id="id1168011040351">
+        <media id="id1168011040351_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 3-f2c7.png" id="id1168011040351__onlineimage" height="60" width="205"/>
+        </media>
+      </figure>
+      <list id="id1167996894902" list-type="bulleted">
+        <item>Torsion – a turning or twisting force like when you twist the top off a bottle.</item>
+      </list>
+      <figure id="id1168007802831">
+        <media id="id1168007802831_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 4-373c.png" id="id1168007802831__onlineimage" height="40" width="175"/>
+        </media>
+      </figure>
+      <list id="id1167998957320" list-type="bulleted">
+        <item>Shear – a force created when two opposite forces try to cut a material; like when you use a pair of scissors to cut a piece of paper.</item>
+      </list>
+      <figure id="id1168001319473">
+        <media id="id1168001319473_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 5-473c.png" id="id1168001319473__onlineimage" height="59" width="190"/>
+        </media>
+      </figure>
+      <para id="id1168001538523"/>
+      <para id="id1168004757083"/>
+      <para id="id1168001947826">When one force is balanced by another they are said to be in EQUILIBRIUM.</para>
+      <para id="id1168004449219">When you build a structure, you do not always have to use solid material like wood or metal. Flexible material, such as wire, can be used for parts of the structure which will only be stretched or in tension. Wire can be used in tension (being stretched), but not in compression (be squashed).</para>
+      <figure id="id3285109">
+        <media id="id3285109_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 8-3f88.png" id="id3285109__onlineimage" height="167" width="633"/>
+        </media>
+      </figure>
+      <para id="id2066803"/>
+      <para id="id1168009724216">Load from the top of the structure keeps the wire in tension and the structure remains rigid.</para>
+      <para id="id3279901">
+        <figure id="id6290296">
+          <media id="id6290296_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 6-f286.png" id="id6290296__onlineimage" height="178" width="197"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id1168001128738">When the structure is loaded from the sides the wire is compressed (squashed) and it collapses. It is unstable.</para>
+      <figure id="id1167995782304">
+        <media id="id1167995782304_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 7-bdec.png" id="id1167995782304__onlineimage" height="158" width="247"/>
+        </media>
+      </figure>
+      <para id="id1167998332126">Triangles are very useful when building structures. They can help to make a very strong and rigid structure. To make a rectangle more stable is to put in two more members from corner to corner. Four triangles are formed. This way of making structures more stable is called TRIANGULATION. It is often used when building bridges or cranes. It is not always necessary to put in two members, one would be enough. The second extra member is called the redundant member. When designing structures it is easy to use more members that are really needed. They will only add more weight to the finished structure and make it more expensive.</para>
+      <para id="id1168010142405">By making the base size of a structure heavier or wider, you can also make it more stable.</para>
+    </section>
+    <section id="id1167999983425">
+      <title>ASSIGNMENT 1 (groupwork): </title>
+      <para id="para-id1167999983425">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1168011942274">
+      <title>[LO 2.1]</title>
+      <para id="id1168000809089">Choice 1:</para>
+      <para id="id1167998345659">Design and make a horizontal structure using 25 paper straws and a glue gun. Your structure must support a marble as far out from the table as possible. Your structure must not come in contact with the floor or any of the other furniture in the room. It must support the marble for at least 30 seconds.</para>
+      <figure id="id1168007078274">
+        <media id="id1168007078274_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 15-cbef.png" id="id1168007078274__onlineimage" height="200" width="269"/>
+        </media>
+      </figure>
+      <para id="id1168004348383"/>
+      <para id="id1168000053513">Choice 2:</para>
+      <para id="id1167996261945">Design and make a tower using 25 paper straws and a glue gun. Your tower must support a marble for at least 30 seconds as high as possible.</para>
+      <figure id="id1168008590778">
+        <media id="id1168008590778_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 16-2f57.png" id="id1168008590778__onlineimage" height="221" width="194"/>
+        </media>
+      </figure>
+      <para id="id1168010008426">It is also important to get a structure’s centre of gravity so that it is able to balance. All objects have a point where they are held in balance by the force of gravity. This balancing point is called the centre of gravity, because it is the place where the whole weight of the object seems to centre. The balancing point of a rectangular shape, such as a square or a circle, is in the centre.</para>
+      <para id="id1168010943558">How can you find the balancing point of an irregular shape?</para>
+      <figure id="id1168007451018">
+        <media id="id1168007451018_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 17-c021.png" id="id1168007451018__onlineimage" height="189" width="165"/>
+        </media>
+      </figure>
+      <figure id="id1168010014310">
+        <media id="id1168010014310_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 18-3078.png" id="id1168010014310__onlineimage" height="180" width="166"/>
+        </media>
+      </figure>
+      <figure id="id1168003205472">
+        <media id="id1168003205472_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 19.png" id="id1168003205472__onlineimage" height="196" width="186"/>
+        </media>
+      </figure>
+      <para id="id1168012256586">Where do you think is the best place for the heavy cargo to be stowed on a ship?</para>
+      <figure id="id1168009003052">
+        <media id="id1168009003052_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 21.png" id="id1168009003052__onlineimage" height="206" width="348"/>
+        </media>
+      </figure>
+      <para id="id1168002315263">Gravity is the pull that objects have on other objects around them. Because the Earth itself is the largest object in our world, the pull of its gravity is the strongest we can feel. Gravity keeps everything resting on the ground. An object centre of gravity is found when it just balances on the edge of a table before it falls off.</para>
+      <para id="id1168002155601">Any object will balance on a pivot when its centre of gravity is low.</para>
+      <para id="id1168006355456">How can you change an object’s centre of gravity?</para>
+      <figure id="id1168008763177">
+        <media id="id1168008763177_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 23.png" id="id1168008763177__onlineimage" height="225" width="247"/>
+        </media>
+      </figure>
+      <para id="id1168002015921"/>
+    </section>
+    <section id="id1168004640945">
+      <title>ASSIGNMENT 2: </title>
+      <para id="para-id1168004640945">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1167998286960">
+      <title>To make your own trapeze artist</title>
+      <para id="para-id1167998286960">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1167995644648">
+      <title>[LO 2.1]</title>
+      <para id="id6067925">
+        <emphasis effect="bold">Requirements</emphasis>
+        <emphasis effect="bold">:</emphasis>
+      </para>
+      <list id="id2981703" list-type="bulleted">
+        <item>Thick white card</item>
+        <item>a drawing pin</item>
+        <item>a scissors</item>
+        <item>felt tip pens</item>
+        <item>strong glue</item>
+        <item>wire</item>
+        <item>2 plasticine balls</item>
+        <item>a heavy bottle</item>
+        <item>a glue gun</item>
+        <item>pliers</item>
+      </list>
+      <para id="id1168005664728"/>
+      <para id="id1168007241308"/>
+      <para id="id6134118">
+        <emphasis effect="bold">Method:</emphasis>
+      </para>
+      <list id="id1168000041437" list-type="enumerated" number-style="arabic">
+        <item>Draw the man shape onto some thick white card. Carefully cut out the shape with  scissors.</item>
+      </list>
+      <para id="id1168002100848">
+        <figure id="id1168003124226">
+          <media id="id1168003124226_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 24.png" id="id1168003124226__onlineimage" height="286" width="256"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id1168002681311"/>
+      <para id="id3279449"/>
+      <para id="id1168003840530"/>
+      <para id="id3596539"/>
+      <para id="id3386214"/>
+      <para id="id1168000016509"/>
+      <para id="id6232865"/>
+      <para id="id1168000352635"/>
+      <para id="id1167998767952">1. Colour in the man to make him more human in the front and back using felt tip pens.  Carefully glue a drawing pin to the bottom of the card.</para>
+      <figure id="id1167997295843">
+        <media id="id1167997295843_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 25.png" id="id1167997295843__onlineimage" height="227" width="197"/>
+        </media>
+      </figure>
+      <list id="id1168008658410" list-type="enumerated" number-style="arabic">
+        <item>Cut of a length of wire using pliers. Glue it into place with the glue gun.</item>
+      </list>
+      <para id="id2117240">
+        <figure id="id1168008877614">
+          <media id="id1168008877614_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 26.png" id="id1168008877614__onlineimage" height="206" width="483"/>
+          </media>
+        </figure>
+      </para>
+      <list id="id1168001843594" list-type="enumerated" number-style="arabic">
+        <item>Glue two plasticine balls to each end of the wire.</item>
+      </list>
+      <figure id="id1167995778418">
+        <media id="id1167995778418_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 27.png" id="id1167995778418__onlineimage" height="203" width="614"/>
+        </media>
+      </figure>
+      <para id="id1168006184362">4. Carefully stand the balancing man on top of a bottle. He wobbles slightly, but should  keep his balance.</para>
+      <figure id="id1167999819515">
+        <media id="id1167999819515_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 28.png" id="id1167999819515__onlineimage" height="256" width="353"/>
+        </media>
+      </figure>
+      <para id="id2700820"/>
+      <para id="id2460892">JOINING TECHNIQUES</para>
+      <table id="id1168000277032" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>Paper/card</entry>
+              <entry>Glue, paper clips, a stapler, paper fasteners, washers, string or yarn, tape, pins</entry>
+            </row>
+            <row>
+              <entry>Textile</entry>
+              <entry>Textile glue glues material onto material, PVA glue glues material to paper, card or wood, string , yarn, fasteners (buttons, velcro, zips, hooks and eyes, snap-fasteners, press-studs, strings, laces, ribbon)</entry>
+            </row>
+            <row>
+              <entry>Wood</entry>
+              <entry>Nails, pins, screws, woodglue, joints</entry>
+            </row>
+            <row>
+              <entry>Metal</entry>
+              <entry>Screws, bolts and nuts, soldering, glue, rivets</entry>
+            </row>
+            <row>
+              <entry>Plastic</entry>
+              <entry>Screws, glue</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id1168004446214">
+      <title>Assessment</title>
+      <table id="id1168005404625" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>
+                <emphasis effect="bold">Assessment standards</emphasis>
+                <emphasis effect="bold">(ASs)</emphasis>
+              </entry>
+            </row>
+            <row>
+              <entry>We know this when the learner:</entry>
+            </row>
+            <row>
+              <entry>structures:</entry>
+            </row>
+            <row>
+              <entry>2.1 demonstrates knowledge and understanding of structures.</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">processing</emphasis>:2.2 demonstrates knowledge and understanding of how materials can be processed to change or improve properties (e.g. strength, fire resistance, waterproofing, taste, volume, texture).</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1168000959203"/>
+    </section>
+  </content>
+</document>

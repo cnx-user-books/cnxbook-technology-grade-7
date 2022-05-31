@@ -1,0 +1,247 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>An electronic maths game Part 2: Mathematics game</title>
+  <metadata>
+  <md:content-id>m23120</md:content-id><md:title>An electronic maths game Part 2: Mathematics game</md:title>
+  <md:abstract/>
+  <md:uuid>6558d717-cea1-4207-ad7e-38e9350d10ad</md:uuid>
+</metadata>
+
+<content>
+    <section id="id3666990">
+      <title>TECHNOLOGY</title>
+      <para id="para-id3666990">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id3597992">
+      <title>Grade 7</title>
+      <para id="para-id3597992">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id3050935">
+      <title>ELECTRICITY</title>
+      <para id="para-id3050935">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id4333560">
+      <title>Module 13</title>
+      <para id="para-id4333560">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id3543533">
+      <title>AN ELECTRONIC MATHS GAME</title>
+      <para id="para-id3543533">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id3369133">
+      <title>Part 2: Mathematics game</title>
+      <para id="id4511397">
+        <figure id="id4822425">
+          <media id="id4822425_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 1-a9e1.png" id="id4822425__onlineimage" height="563" width="633"/>
+          </media>
+        </figure>
+      </para>
+      <section id="id1579776">
+        <title>Needs:</title>
+        <list id="id4581224" list-type="bulleted">
+          <item>name</item>
+          <item>screen with positions for buzzer and light</item>
+          <item>10 questions and 10 answers</item>
+          <item>20 split pins</item>
+        </list>
+      </section>
+      <section id="id3639109">
+        <title>Design: Final working drawing</title>
+        <para id="id3522225">Suggestion for the teacher: Learners can approach the project in groups of three. One learner designs and makes the front view (lid), one learner designs and makes the electric circuit of the game, and the third learner designs and makes the container in which the electric circuit is placed.</para>
+        <para id="id4344472">Learner 1:</para>
+        <para id="id4033682">Sketch the front view (2D-drawing) of the electronic game.</para>
+        <para id="id3655864">(Use sketches of parts, cut out and paste).</para>
+        <para id="id4212503">Learner 2:</para>
+        <para id="id4317375">Sketch the layout of the electric circuit. Also apply the necessary captions/comments.</para>
+        <figure id="id3561926">
+          <media id="id3561926_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 7-7dd3.png" id="id3561926__onlineimage" height="411" width="633"/>
+          </media>
+        </figure>
+        <para id="id1771434">Sketch a circuit diagram. Use the correct symbols and supply a key to explain each symbol.</para>
+        <para id="id4169425">
+          <figure id="id3778681">
+            <media id="id3778681_media" alt="">
+              <image mime-type="image/png" src="../../media/Picture 9-f066.png" id="id3778681__onlineimage" height="420" width="633"/>
+            </media>
+          </figure>
+        </para>
+      </section>
+      <section id="id4484504">
+        <title>Assessment of design for electric circuit</title>
+        <table id="id3776427" summary="">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry/>
+                <entry>Yes</entry>
+                <entry>No</entry>
+              </row>
+              <row>
+                <entry>1. Resistor is in serie with light.</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>2. Two wires run from buzzer directly to connector/s.</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>3. Two wires run from light bulb directly to connectors.</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>4. A wire from the buzzer and light each go through one hole of the connector.</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>5. The other two wires from the buzzer and light go through one opening of the connector.</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>6. One wire from the connector goes to the battery and then to the front.</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>7. The other piece of wire goes directly to the outside.</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>8. Both of the outside wires have poles fitted to it.</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>9. Length and width of insulation board are given.</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>10. Five other dimensions are shown.</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>11. Red wire runs from battery to buzzer and light.</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>12. Black wire runs from buzzer and light to battery.</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>13. Key is complete and correct.</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>14. Circuit diagram is complete and correct.</entry>
+                <entry/>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id4265857">Learner 3:</para>
+        <para id="id3504862">Design: </para>
+        <para id="id4212662"/>
+        <para id="id4104904"> Sketch and planning of container for electric circuit in isometric. Indicate the tessellation pattern and use an isometric grid.</para>
+        <para id="id3247858">Design the net of the container/box on A3 graph paper.</para>
+      </section>
+    </section>
+    <section id="id4690481">
+      <title>Assessment</title>
+      <table id="id4119119" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>Learning Outcomes(LOs)</entry>
+            </row>
+            <row>
+              <entry>LO 1</entry>
+            </row>
+            <row>
+              <entry>TECHNOLOGICAL PROCESSES AND SKILLSThe learner will be able to apply technological processes and skills ethically and responsibly using appropriate information and communication technologies.</entry>
+            </row>
+            <row>
+              <entry>Assessment Standards(ASs)</entry>
+            </row>
+            <row>
+              <entry>We know this when the learner:</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">investigates</emphasis>:</entry>
+            </row>
+            <row>
+              <entry>1.1 investigates the background context, the nature of the need, the environmental situation, and the people concerned when given a problem, need or opportunity set in a local context;</entry>
+            </row>
+            <row>
+              <entry>1.2 examines existing products relevant to a problem, situation or need.</entry>
+            </row>
+            <row>
+              <entry>1.3 investigates by performing simple practical tests relating to aspects of the technological knowledge areas (Structures, Processing, and Systems and Control);</entry>
+            </row>
+            <row>
+              <entry>1.4 during investigations, plans a strategy for collecting data and information.</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">design</emphasis>:</entry>
+            </row>
+            <row>
+              <entry>1.5 writes or communicates a short and clear statement or a design brief for the development of a product or system related to a given problem, need or opportunity;</entry>
+            </row>
+            <row>
+              <entry>1.6 lists product and design specifications and constraints for a solution to a given problem, need or opportunity.</entry>
+            </row>
+            <row>
+              <entry>1.7 generates at least two alternative solutions and annotates the ideas;</entry>
+            </row>
+            <row>
+              <entry>1.8 chooses possible solutions, gives sensible reasons for choice, and develops a chosen idea using graphics or modelling techniques;</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">make</emphasis>:</entry>
+            </row>
+            <row>
+              <entry>1.9 develops a plan.</entry>
+            </row>
+            <row>
+              <entry>1.10 chooses and uses appropriate tools and materials to make products by measuring, marking, cutting or separating, shaping or forming, joining or combining, and finishing different materials with some accuracy;</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">evaluates</emphasis>:</entry>
+            </row>
+            <row>
+              <entry>1.12 evaluates the product or system based on criteria linked directly to the design brief and some of the specifications and constraints, and suggests improvements or modifications;</entry>
+            </row>
+            <row>
+              <entry>1.13 evaluates the efficiency of the plan of action followed and suggests improving future plans.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+  </content>
+</document>

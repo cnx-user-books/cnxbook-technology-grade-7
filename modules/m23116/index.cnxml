@@ -1,0 +1,360 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>What is electricity?</title>
+  <metadata>
+  <md:content-id>m23116</md:content-id><md:title>What is electricity?</md:title>
+  <md:abstract/>
+  <md:uuid>b0730f06-8a1b-4232-8da2-4b61f06f5d2d</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1170714109312">
+      <title>TECHNOLOGY</title>
+      <para id="para-id1170714109312">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1170707360418">
+      <title>Grade 7</title>
+      <para id="para-id1170707360418">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1855071">
+      <title>ELECTRICITY</title>
+      <para id="para-id1855071">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id5958671">
+      <title>Module 10</title>
+      <para id="para-id5958671">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1170710526180">
+      <title>WHAT IS ELECTRICITY?</title>
+      <para id="id8866176">Background</para>
+      <para id="id1170709233140">Electricity is a type of energy. An object has electrical energy when it has the ability to conduct electricity. Electricity is measured in Volts.</para>
+      <para id="id1170707442776">Electrical energy can be easily converted to other forms of electricity.</para>
+      <para id="id1170712987422">There are two main types of electricity:</para>
+      <list id="id1170709233712" list-type="bulleted">
+        <item>main stream electricity</item>
+        <item>battery electricity</item>
+      </list>
+      <para id="id1170712283924">Battery-electricity</para>
+      <para id="id8570869">Electrical energy are stored in batteries. The energy in batteries are called chemical energy. When electrical energy moves, the electrons flows in an electrical circuit.</para>
+      <para id="id6095299"/>
+      <para id="id5820627">The basic elements of an electrical circuit is:</para>
+      <para id="id4989263"> a <emphasis effect="bold">source of energy</emphasis> e.g. a battery</para>
+      <table id="id1170709657593" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>
+                <emphasis effect="bold">Sketch</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Symbol</emphasis>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <media id="id7920378" alt="">
+                  <image mime-type="image/png" src="../../media/Picture 4-d277.png"/>
+                </media>
+              </entry>
+              <entry>
+                <media id="id1170713534029" alt="">
+                  <image mime-type="image/png" src="../../media/Picture 5-62de.png"/>
+                </media>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id5520419"/>
+      <para id="id1170709282211"> a <emphasis effect="bold">conductor</emphasis> e.g. a sort of metal in the shape of a wire</para>
+      <table id="id5679428" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>
+                <emphasis effect="bold">Sketch</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Symbol</emphasis>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <media id="id1170713798439" alt="">
+                  <image mime-type="image/png" src="../../media/Picture 7-06b2.png"/>
+                </media>
+              </entry>
+              <entry>
+                <media id="id8124350" alt="">
+                  <image mime-type="image/png" src="../../media/Picture 8-f588.png"/>
+                </media>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1170714097602"/>
+      <para id="id4101814"> a <emphasis effect="bold">switch</emphasis> to form an open or closed circuit</para>
+      <table id="id1170709319703" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>
+                <emphasis effect="bold">Sketch</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Symbol</emphasis>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <media id="id8806058" alt="">
+                  <image mime-type="image/png" src="../../media/Picture 10-16cd.png"/>
+                </media>
+              </entry>
+              <entry>
+                <media id="id1170717112289" alt="">
+                  <image mime-type="image/png" src="../../media/Picture 11-0ca7.png"/>
+                </media>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1170713991281"/>
+      <para id="id4388894"> a <emphasis effect="bold">load</emphasis> e.g. a source of light, sound, motion or heat</para>
+      <table id="id1170711130403" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>
+                <emphasis effect="bold">Sketch</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Symbol</emphasis>
+              </entry>
+            </row>
+            <row>
+              <entry>a light<media id="id1170717147703" alt=""><image mime-type="image/png" src="../../media/Picture 13-6cf8.png"/></media></entry>
+              <entry>
+                <media id="id1170713359763" alt="">
+                  <image mime-type="image/png" src="../../media/Picture 14-3c4a.png"/>
+                </media>
+              </entry>
+            </row>
+            <row>
+              <entry>a buzzer<media id="id1170717300468" alt=""><image mime-type="image/png" src="../../media/Picture 15-33aa.png"/></media></entry>
+              <entry>
+                <media id="id1170712822728" alt="">
+                  <image mime-type="image/png" src="../../media/Picture 16-1c9f.png"/>
+                </media>
+              </entry>
+            </row>
+            <row>
+              <entry>an electrical motor<media id="id1170713833620" alt=""><image mime-type="image/png" src="../../media/Picture 17-a7ea.png"/></media></entry>
+              <entry>
+                <media id="id1170711782371" alt="">
+                  <image mime-type="image/png" src="../../media/Picture 18-6e10.png"/>
+                </media>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id5679900"/>
+      <para id="id5084252">Two or more of the same component in an electric circuit can be connected in two different ways in the circuit;</para>
+      <list id="id1170707481058" list-type="bulleted">
+        <item>in <emphasis effect="bold">series</emphasis> where a positive pole of one cell is linked to the negative pole of another cell;</item>
+        <item>in <emphasis effect="bold">parallel</emphasis> where all the positive poles of the cells are connected with one another and all the negative poles are also connected like this.</item>
+      </list>
+      <para id="id6266605"><emphasis effect="bold">Advantage of cells in series </emphasis>– current supply becomes more powerful</para>
+      <para id="id1170712348805"><emphasis effect="bold">Advantage of cells in parallel</emphasis> – the cells can produce the same current for longer.</para>
+      <para id="id1170708425830">To the teacher:</para>
+      <para id="id1170710506706">These worksheets should be done in groups. Each group can construct a different circuit and then explain it to the rest of the class before completing a worksheet. A class should be divided into 7 groups, because there are 7 worksheets. This would save a huge amount of time. Each group should construct a test circuit with a switch, 1,5 V lamp, lamp holder and a 1,5 V cell in a cell holder. First screw the holders and switch on the board, add the wire between them and then add the cell and lightbulb.</para>
+      <para id="id1170711113772">Equipment and tools needed:</para>
+      <list id="id1170707481151" list-type="bulleted">
+        <item>1,5 V batteries</item>
+        <item>1.5 V light bulbs </item>
+        <item>light bulb holders</item>
+        <item>wire/flex</item>
+        <item>7 strip connectors</item>
+        <item>battery holders</item>
+        <item>7 switches</item>
+        <item>small screws</item>
+        <item>flat nose and star screwdrivers</item>
+        <item>7 pieces of insulation board 150 mm by 150 mm</item>
+        <item>connectors</item>
+        <item>buzzers with a low voltage</item>
+        <item>diodes and resistors</item>
+      </list>
+    </section>
+    <section id="id1170708022199">
+      <title>Assignment 1:</title>
+      <para id="para-id1170708022199">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id6395305">
+      <title>To investigate by means of a simple practical test[LO 1.3]</title>
+      <para id="para-id6395305">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id6962324">
+      <title>To extract relevant data [LO 1.4.4]</title>
+      <para id="para-id6962324">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1170710509457">
+      <title>To evaluate the system [LO 1.12]</title>
+      <para id="para-id1170710509457">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1170709160310">
+      <title>To show knowledge and understanding of electric circuits [LO 2.2]</title>
+      <para id="id5249885">WORKSHEET 1:</para>
+      <list id="id1170709363955" list-type="bulleted">
+        <item>Connect one 1,5 V cell in a battery holder to a 1,5 V lamp in a lamp holder with wire and a switch on a piece of insulation board.</item>
+        <item>Make a simple drawing of the circuit.</item>
+      </list>
+      <para id="id3358804">1.3 Draw a circuit diagram of the circuit, using the correct symbols.</para>
+      <para id="id1170711882182">1.4 <emphasis effect="bold">Underline:</emphasis></para>
+      <para id="id3720356">The light bulb shines (very brightly/bright/dimly/ not at all).</para>
+      <para id="id1170713424127">WORKSHEET 2:</para>
+      <para id="id1170714739210">2.1 Connect one 1,5 V cell in a cell holder to two 1,5 V lamps in two lamp holders in parallel using wire and adding a switch on a piece of insulation board.</para>
+      <list id="id1170717400611" list-type="bulleted">
+        <item>Draw a circuit diagram of the circuit.</item>
+        <item>Unscrew one of the lamps from its holder. What happens to the other lamp? Explain why this happens.</item>
+        <item>Underline:</item>
+      </list>
+      <para id="id5112462">The light bulbs shine (very brightly/ brightly/ dimly/ not at all).</para>
+      <para id="id1170717066626">WORKSHEET 3:</para>
+      <para id="id2157300">3.1 Connect one 1,5 V cell in a cell holder to two 1,5 V lamps in lamp holders fitted in series with wire and a switch to an insulation board.</para>
+      <para id="id1170714890924">3.2 Draw a circuit diagram of the circuit.</para>
+      <list id="id1170713133061" list-type="bulleted">
+        <item>Unscrew one of the lamps from its holder. What happens to the other lamp? Explain  why this happens.</item>
+      </list>
+      <para id="id1170713241231">3.4 <emphasis effect="bold">Underline:</emphasis></para>
+      <para id="id6544851">The light bulb shines (very brightly/ brightly/ dimly/ not at all).</para>
+      <para id="id7431309">WORKSHEET 4:</para>
+      <para id="id2598179">4.1 Connect two 1,5 V cells in parallel to two 1,5 V lamps connected in parallel.</para>
+      <para id="id1170709627541">4.2 Draw a circuit diagram of the circuit. </para>
+      <list id="id7657356" list-type="bulleted">
+        <item>Underline:</item>
+      </list>
+      <para id="id1170709354039">The bulbs shine (very brightly/ brightly/ dimly/ not at all).</para>
+      <para id="id1170712069533">4.4 <emphasis effect="bold">Underline:</emphasis></para>
+      <para id="id4824121">The influence of the two cells connected in parallel on the magnitude of electric current are <emphasis effect="bold">(big/ small).</emphasis></para>
+      <para id="id6577627">WORKSHEET 5:</para>
+      <para id="id8690631">5.1 Connect two 1,5 V cells in series to two 1,5 V lamps connected in parallel.</para>
+      <para id="id1170713693481">5.2 Draw a circuit diagram of the circuit.</para>
+      <para id="id1170713311972">5.3 <emphasis effect="bold">Underline:</emphasis></para>
+      <para id="id6517368">The light bulbs shine (very brightly/ brightly/ dimly/ not at all).</para>
+      <para id="id1170713471104">5.4 <emphasis effect="bold">Underline:</emphasis></para>
+      <para id="id1170709413321">The influence of the two cells connected in series on the magnitude of the electric current are (big/ small).</para>
+      <para id="id1170709645693">WORKSHEET 6:</para>
+      <para id="id6861024">6.1 Connect two 1,5 V cells in series to a buzzer and one 1,5 V lamp in series.</para>
+      <para id="id6548859">6.2 Draw a circuit diagram of the circuit.</para>
+      <para id="id1170709427346">6.3 Does it work? Why or why not? Give an explanation for your answer.</para>
+      <para id="id6787934">WORKSHEET 7:</para>
+      <para id="id6966442">7.1 Connect two 1,5 V cells in series with a buzzer and one 1,5 V bulb in parallel.</para>
+      <para id="id4480444">7.2 Draw a circuit diagram of the circuit. </para>
+      <para id="id1170711989789">7.3 Does it work? Why or why not? Give an explanation for your answer.</para>
+      <para id="id1170714728769">WORKSHEET 8:</para>
+      <list id="id3708896" list-type="bulleted">
+        <item>What does it mean if two lamps are connected in parallel? </item>
+        <item>What does it mean if two lamps are connected in series? </item>
+        <item>What are the advantages of connecting lamps in parallel? </item>
+        <item>What are the advantages of connecting cells or batteries in parallel? </item>
+        <item>What are the advantages of connecting cells or batteries in series? </item>
+      </list>
+      <list id="id1219962" list-type="bulleted">
+        <item>What is the function of a resistor in a circuit?</item>
+        <item><emphasis effect="bold">Underline:</emphasis>A resistor in a circuit is connected in (series/ parallel) with a lamp or buzzer.</item>
+      </list>
+      <list id="id3246512" list-type="bulleted">
+        <item>What is the function of a diode in a circuit?</item>
+        <item>Underline:</item>
+      </list>
+      <para id="id1170711726769">A Diode is connected in (series/ parallel) with the loads in a circuit.</para>
+    </section>
+    <section id="id1170713017518">
+      <title>Assessment</title>
+      <table id="id8212727" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>Learning Outcomes(LOs)</entry>
+            </row>
+            <row>
+              <entry>LO 1</entry>
+            </row>
+            <row>
+              <entry>TECHNOLOGICAL PROCESSES AND SKILLSThe learner will be able to apply technological processes and skills ethically and responsibly using appropriate information and communication technologies.</entry>
+            </row>
+            <row>
+              <entry>Assessment Standards(ASs)</entry>
+            </row>
+            <row>
+              <entry>We know this when the learner:</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">investigates</emphasis>:</entry>
+            </row>
+            <row>
+              <entry>1.1 investigates the background context, the nature of the need, the environmental situation, and the people concerned when given a problem, need or opportunity set in a local context;</entry>
+            </row>
+            <row>
+              <entry>1.2 examines existing products relevant to a problem, situation or need.</entry>
+            </row>
+            <row>
+              <entry>1.3 investigates by performing simple practical tests relating to aspects of the technological knowledge areas (Structures, Processing, and Systems and Control);</entry>
+            </row>
+            <row>
+              <entry>1.4 during investigations, plans a strategy for collecting data and information.</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">evaluates</emphasis>:</entry>
+            </row>
+            <row>
+              <entry>1.12 evaluates the product or system based on criteria linked directly to the design brief and some of the specifications and constraints, and suggests improvements or modifications;</entry>
+            </row>
+            <row>
+              <entry>LO 2</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">TECHNOLOGICAL KNOWLEDGE AND UNDERSTANDING </emphasis>The learner will be able to understand and apply relevant technological knowledge ethically and responsibly.</entry>
+            </row>
+            <row>
+              <entry>Assessment Standards(ASs)</entry>
+            </row>
+            <row>
+              <entry>We know this when the learner:</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">processing</emphasis>:2.2 demonstrates knowledge and understanding of how materials can be processed to change or improve properties (e.g. strength, fire resistance, waterproofing, taste, volume, texture).</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+  </content>
+</document>
